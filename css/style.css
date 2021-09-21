@@ -1,0 +1,46 @@
+/**
+ * Text 1
+ */
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: blueviolet;
+}
+
+/**
+ * Text 2
+ */
+#text2
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    width:            50%;
+    color:            #ffffff;
+    background-color: #fbab11;
+}
+
+/**
+ * Text 3
+ */
+#text3
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #d81c82;
+}
+
+
+/**
+ * Text 4
+ */
+#text4
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    width:            66%;
+    color:            #ffffff;
+    background-color: chocolate;
+}
